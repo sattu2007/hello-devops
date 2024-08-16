@@ -9,6 +9,12 @@ COPY app.py .
 
 CMD ["python", "app.py"]
 
+
+
+
+
+
+
 # FROM node:14
 
 # WORKDIR /app
